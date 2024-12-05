@@ -35,7 +35,7 @@ This application is a graphical user interface (GUI) tool built using PyQt6 that
 ## Usage
 1. **Run the Application**:
    ```bash
-   python main.py
+   python app.py
    ```
 
 2. **Enter an IP Address**:
